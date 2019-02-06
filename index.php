@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Hello World'; // How to print words in php
+        echo 'Hello World';//how to print words in PHP
+            
         ?>
     </body>
 </html>
